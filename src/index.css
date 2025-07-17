@@ -1,0 +1,34 @@
+*{
+  background-color: orange;
+  font-style: Arial, sans-serif;
+  font-weight: bold;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10%;
+}
+
+h1{
+  color: rgb(0, 0, 0);
+}
+
+.egg{
+  max-width: 600px;
+  max-height: 260px;
+  cursor: pointer;
+}
+
+.click-btn{
+  background-color: rgb(170, 111, 2);
+  color: white;
+  width: 160px;
+  height: 40px;
+}
+
+.counter{
+  color: black;
+  font-size: 30px;
+}
