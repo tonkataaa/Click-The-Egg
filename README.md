@@ -1,5 +1,6 @@
 🐣 Click the Egg
 Click the Egg is a fun, addictive, and mysterious clicker game built with React + TypeScript.
+PLAY IT NOW: https://click-the-egg-game.netlify.app/
 ---
 How many times can you click?
 What happens after 9,999 clicks?
